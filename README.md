@@ -21,7 +21,6 @@ I'm a french developer since 2020, I started coding by myself using online lesso
 <p align="left"> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="zadiho" />
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="zadiho" />
-  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="zadiho" />
 </p>
   
 <h4 align="left">Statistics:</h4>
