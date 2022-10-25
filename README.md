@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm ZaDiHo
 
 <p align="left"> <a href="https://twitter.com/pvst_tom" target="_blank" ><img src="https://img.shields.io/twitter/follow/pvst_tom?logo=twitter&style=for-the-badge" alt="zadiho" /> </a> 
-<a href="https://github.com/ZaDiHo" target="_blank" ><img src="https://img.shields.io/badge/Azion-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="zadiho" /> </a>
 <a href="https://discord.gg/cw3rxzVs" target="_blank" ><img src="https://img.shields.io/badge/project-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="zadiho" /> </a> </p>
 
 <h4 align="left">About me:</h4>
